@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name BA033CC0FP-E2)(type KiCad)(uri ${KIPRJMOD}/Custom-Parts/BA033CC0FP-E2)(options "")(descr ""))
+  (lib (name MCP7381T-2ACI)(type KiCad)(uri ${KIPRJMOD}/Custom-Parts/MCP7381T-2ACI)(options "")(descr ""))
+  (lib (name RotaryEncoder)(type KiCad)(uri ${KIPRJMOD}/Custom-Parts/RotaryEncoder)(options "")(descr ""))
+  (lib (name Footprints)(type KiCad)(uri ${KIPRJMOD}/Custom-Parts/SparkFun-KiCad-Libraries/Footprints)(options "")(descr ""))
+  (lib (name STM32F070F6)(type KiCad)(uri ${KIPRJMOD}/Custom-Parts/STM32F070F6)(options "")(descr ""))
+  (lib (name TP4056-42-ESOP8)(type KiCad)(uri ${KIPRJMOD}/Custom-Parts/TP4056-42-ESOP8)(options "")(descr ""))
+  (lib (name RPi_Pico)(type KiCad)(uri "C:/Users/cools/OneDrive - UW-Madison/Flamethrower/Flamethrower/Custom-Parts/Rpi-pico")(options "")(descr ""))
+)
