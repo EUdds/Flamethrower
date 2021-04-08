@@ -550,4 +550,6 @@ Text Label 9650 3500 0    50   ~ 0
 LED_1_R
 Text Label 9700 3100 0    50   ~ 0
 LED_0_R
+Text Label 4550 3000 0    50   ~ 0
+SPRK_FET
 $EndSCHEMATC
